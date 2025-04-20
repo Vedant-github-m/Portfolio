@@ -1,0 +1,12 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shape -->
+  <path d="M18 3L31.5 10.5V25.5L18 33L4.5 25.5V10.5L18 3Z" fill="#050816" stroke="#915eff" stroke-width="1.5"/>
+  
+  <!-- Letter V -->
+  <path d="M12 12L18 24L24 12" stroke="#915eff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="18" cy="24" r="2" fill="#915eff"/>
+  <circle cx="12" cy="12" r="2" fill="#915eff"/>
+  <circle cx="24" cy="12" r="2" fill="#915eff"/>
+</svg> 
